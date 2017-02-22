@@ -1,0 +1,2 @@
+# WeiXinErrorImages
+weixin
